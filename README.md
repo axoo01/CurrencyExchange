@@ -1,4 +1,4 @@
-# CurrencyExchange
+# Currency Exchange
 A sleek, user-friendly web application that converts amounts between any two currencies using real-time 
 exchange rates from the ExchangeRate-API.
 
