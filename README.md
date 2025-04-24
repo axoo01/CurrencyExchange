@@ -8,5 +8,9 @@ exchange rates from the ExchangeRate-API.
 - Responsive Design: Glassmorphism-inspired UI with gradients, animations, and a mobile-friendly layout.
 - Error Handling: displays clear error messages for invalid selections or API issues.
 
+[click here for live demo]()
+
+
+
 
 
